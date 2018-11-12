@@ -1,0 +1,2 @@
+ewmh==0.1.6
+python-xlib==0.23
